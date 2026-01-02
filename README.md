@@ -2,6 +2,8 @@
 
 A simple physics simulation of a mass on a spring, built with [Zig](https://ziglang.org/) and [Raylib](https://www.raylib.com/).
 
+## Credits
+- Daniel Hirsch (Coding a Physics Simulation in C)
 
 ## Features
 - Real-time physics simulation using Euler integration.
